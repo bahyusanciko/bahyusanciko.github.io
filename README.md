@@ -1,68 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2> Hi Everyone, I'm Bahyu Sanciko!</h2>
+<p><em> Full Stack Enginner at <a href="http://sabaindomedika.com/">PT SABA INDOMEDIKA</a>
+</em></p>
 
-## Available Scripts
+[![Twitter: bhysnck](https://img.shields.io/twitter/follow/bhysnck?style=social)](https://twitter.com/bhysnck)
+[![Linkedin: bahyusanciko](https://img.shields.io/badge/-bahyusanciko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bahyu-sanciko/)](https://www.linkedin.com/in/bahyu-sanciko/)
+[![GitHub Bahyusanciko](https://img.shields.io/github/followers/bahyusanciko?label=follow&style=social)](https://github.com/bahyusanciko)
 
-In the project directory, you can run:
 
-### `npm start`
+### <img src="https://img.icons8.com/material-two-tone/344/about.png" width="50"> A little more about me...  
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```javascript
+const aboutme = {
+  code: [PHP, Javascript, Typescript, HTML, CSS],
+  tools: [ Laravel, Codeigniter , Angular , Ionic, Styled-Components, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on typescript"
+}
+```
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<img src="https://img.icons8.com/ios-glyphs/344/developer.png" width="60"> <em><b>Code Is Paradoks</b></em>
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Github Performance Overall
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bahyusanciko&show_icons=true&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahyusanciko&theme=nord&layout=compact)](https://github.com/bahyusanciko/github-readme-stats)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+⭐️ From [@Bahyusanciko](https://github.com/bahyusanciko)
