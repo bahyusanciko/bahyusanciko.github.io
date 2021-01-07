@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from 'react-router-dom';
-import { Typography, Container, Grid, Box } from "@material-ui/core/";
+import { Typography, Container, Grid, Box,Card, CardActionArea, CardContent, CardMedia } from "@material-ui/core/";
 import { makeStyles } from '@material-ui/core/styles'
 import { DeveloperMode } from "@material-ui/icons";
 import PreviewPost from "./PreviewPost";
@@ -31,11 +31,16 @@ export default function Home() {
             <Typography variant="h5" component="h2" gutterBottom>
                 Hello Semua, Blog ini hanya berisikan bacotan saya tentang dunia IT sekian. #santuyprogramming <DeveloperMode />
             </Typography>
-            <Typography variant="p" component="p" gutterBottom>
-                [![Twitter: bhysnck](https://img.shields.io/twitter/follow/bhysnck?style=social)](https://twitter.com/bhysnck)
-                [![Linkedin: bahyusanciko](https://img.shields.io/badge/-bahyusanciko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bahyu-sanciko/)](https://www.linkedin.com/in/bahyu-sanciko/)
-                [![GitHub Bahyusanciko](https://img.shields.io/github/followers/bahyusanciko?label=follow&style=social)](https://github.com/bahyusanciko)
-            </Typography>
+            <Card>
+                <CardActionArea href="https://google.com">
+                    <CardMedia
+                        className={classes.media}
+                        image="https://img.shields.io/badge/-bahyusanciko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bahyu-sanciko/"
+                        title="Paella dish"
+                    />
+                </CardActionArea>
+            </Card>
+
             <Typography variant="h6">Tulisan Terbaru</Typography>
             <Box my={3}>
                 <Grid container spacing={4}>
