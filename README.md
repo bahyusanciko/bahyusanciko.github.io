@@ -1,5 +1,6 @@
 <h2> Hi Everyone, I'm Bahyu Sanciko!</h2>
-<p><em> Full Stack Enginner at <a href="http://sabaindomedika.com/">PT SABA INDOMEDIKA</a>
+<p><em> Full-Stack Engineer <img src="https://komarev.com/ghpvc/?username=bahyusanciko&label=Profile%20views&color=0e75b6&style=flat" alt="bahyusanciko" /
+
 </em></p>
 
 [![Twitter: bhysnck](https://img.shields.io/twitter/follow/bhysnck?style=social)](https://twitter.com/bhysnck)
@@ -29,3 +30,4 @@ const aboutme = {
 
 
 ⭐️ From [@Bahyusanciko](https://github.com/bahyusanciko)
+
